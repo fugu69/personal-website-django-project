@@ -10,6 +10,8 @@ Every step in the book is noted and additional information is gathered independe
 - Context
 - Tests
 
+## Skills and knowledge acquired
+
 - repeat the process of creation of a project and apps
 - create Function-Based View
 - learn `render()` shortcut and why it's called so
